@@ -1,0 +1,16 @@
+C:\projetos\estudo\bin\Debug\net5.0\Classes.exe
+C:\projetos\estudo\bin\Debug\net5.0\Classes.deps.json
+C:\projetos\estudo\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\projetos\estudo\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\projetos\estudo\bin\Debug\net5.0\Classes.dll
+C:\projetos\estudo\bin\Debug\net5.0\ref\Classes.dll
+C:\projetos\estudo\bin\Debug\net5.0\Classes.pdb
+C:\projetos\estudo\obj\Debug\net5.0\Classes.csprojAssemblyReference.cache
+C:\projetos\estudo\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\estudo\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\projetos\estudo\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\projetos\estudo\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\projetos\estudo\obj\Debug\net5.0\Classes.dll
+C:\projetos\estudo\obj\Debug\net5.0\ref\Classes.dll
+C:\projetos\estudo\obj\Debug\net5.0\Classes.pdb
+C:\projetos\estudo\obj\Debug\net5.0\Classes.genruntimeconfig.cache

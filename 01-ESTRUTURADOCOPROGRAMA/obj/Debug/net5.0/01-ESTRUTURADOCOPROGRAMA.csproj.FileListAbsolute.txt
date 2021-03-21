@@ -1,0 +1,16 @@
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.exe
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.deps.json
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.runtimeconfig.json
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.runtimeconfig.dev.json
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.dll
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\bin\Debug\net5.0\ref\01-ESTRUTURADOCOPROGRAMA.dll
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\bin\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.pdb
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.csprojAssemblyReference.cache
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.AssemblyInfoInputs.cache
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.AssemblyInfo.cs
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.csproj.CoreCompileInputs.cache
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.dll
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\ref\01-ESTRUTURADOCOPROGRAMA.dll
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.pdb
+C:\projetos\DigitalInnovationOne\csharp-examples\01-ESTRUTURADOCOPROGRAMA\obj\Debug\net5.0\01-ESTRUTURADOCOPROGRAMA.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\02-INSTRUCOES.csprojAssemblyReference.cache
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\02-INSTRUCOES.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\02-INSTRUCOES.AssemblyInfoInputs.cache
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\02-INSTRUCOES.AssemblyInfo.cs
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\02-INSTRUCOES.csproj.CoreCompileInputs.cache
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\bin\Debug\net5.0\02-INSTRUCOES.exe
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\bin\Debug\net5.0\02-INSTRUCOES.deps.json
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\bin\Debug\net5.0\02-INSTRUCOES.runtimeconfig.json
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\bin\Debug\net5.0\02-INSTRUCOES.runtimeconfig.dev.json
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\bin\Debug\net5.0\02-INSTRUCOES.dll
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\bin\Debug\net5.0\ref\02-INSTRUCOES.dll
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\bin\Debug\net5.0\02-INSTRUCOES.pdb
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\02-INSTRUCOES.dll
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\ref\02-INSTRUCOES.dll
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\02-INSTRUCOES.pdb
+C:\projetos\DigitalInnovationOne\csharp-examples\02-INSTRUCOES\obj\Debug\net5.0\02-INSTRUCOES.genruntimeconfig.cache
